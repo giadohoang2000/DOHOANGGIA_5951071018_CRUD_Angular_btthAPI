@@ -1,0 +1,360 @@
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\5951071018_DOHOANGGIA_CRUD_Angular.dll.config
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\5951071018_DOHOANGGIA_CRUD_Angular.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\5951071018_DOHOANGGIA_CRUD_Angular.pdb
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csc.exe
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csc.exe.config
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csc.rsp
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csi.exe
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csi.exe.config
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csi.rsp
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.Managed.Core.targets
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.AppContext.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Collections.Immutable.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Console.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Globalization.Calendars.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.IO.Compression.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.IO.FileSystem.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Net.Http.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Net.Sockets.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Reflection.Metadata.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.ValueTuple.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Xml.XmlDocument.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Xml.XPath.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\vbc.exe
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\vbc.exe.config
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\vbc.rsp
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\VBCSCompiler.exe
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\VBCSCompiler.exe.config
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Antlr3.Runtime.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Web.Infrastructure.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Newtonsoft.Json.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Http.Formatting.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Helpers.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Http.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Http.WebHost.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Mvc.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Optimization.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Razor.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.Deployment.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.Razor.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\WebGrease.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Newtonsoft.Json.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Http.Formatting.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Helpers.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Http.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Http.WebHost.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Mvc.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Optimization.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Razor.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.Deployment.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.Razor.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Antlr3.Runtime.pdb
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.csprojAssemblyReference.cache
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.csproj.CoreCompileInputs.cache
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.csproj.CopyComplete
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.dll
+D:\gia\lap trinh api\thuc hanh buoi 2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.pdb
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\5951071018_DOHOANGGIA_CRUD_Angular.dll.config
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\5951071018_DOHOANGGIA_CRUD_Angular.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\5951071018_DOHOANGGIA_CRUD_Angular.pdb
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csc.exe
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csc.exe.config
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csc.rsp
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csi.exe
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csi.exe.config
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\csi.rsp
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.Managed.Core.targets
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.AppContext.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Collections.Immutable.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Console.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Globalization.Calendars.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.IO.Compression.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.IO.FileSystem.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Net.Http.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Net.Sockets.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Reflection.Metadata.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.ValueTuple.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Xml.XmlDocument.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Xml.XPath.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\vbc.exe
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\vbc.exe.config
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\vbc.rsp
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\VBCSCompiler.exe
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\roslyn\VBCSCompiler.exe.config
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Antlr3.Runtime.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Web.Infrastructure.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Newtonsoft.Json.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Http.Formatting.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Helpers.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Http.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Http.WebHost.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Mvc.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Optimization.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Razor.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.Deployment.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.Razor.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\WebGrease.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Newtonsoft.Json.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Http.Formatting.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Helpers.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Http.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Http.WebHost.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Mvc.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Optimization.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.Razor.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.Deployment.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Web.WebPages.Razor.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Antlr3.Runtime.pdb
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.csprojAssemblyReference.cache
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.csproj.CoreCompileInputs.cache
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.csproj.CopyComplete
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\obj\Debug\5951071018_DOHOANGGIA_CRUD_Angular.pdb
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Win32.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\netstandard.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.AppContext.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Collections.Concurrent.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Collections.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Collections.NonGeneric.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Collections.Specialized.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.ComponentModel.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.ComponentModel.EventBasedAsync.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.ComponentModel.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.ComponentModel.TypeConverter.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Console.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Data.Common.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.Contracts.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.Debug.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.FileVersionInfo.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.Process.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.StackTrace.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.Tools.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.TraceSource.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.Tracing.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Drawing.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Dynamic.Runtime.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Globalization.Calendars.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Globalization.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Globalization.Extensions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.Compression.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.Compression.ZipFile.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.FileSystem.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.FileSystem.DriveInfo.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.FileSystem.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.FileSystem.Watcher.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.IsolatedStorage.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.MemoryMappedFiles.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.Pipes.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.IO.UnmanagedMemoryStream.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Linq.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Linq.Expressions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Linq.Parallel.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Linq.Queryable.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Http.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.NameResolution.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.NetworkInformation.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Ping.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Requests.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Security.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.Sockets.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.WebHeaderCollection.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.WebSockets.Client.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Net.WebSockets.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.ObjectModel.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Reflection.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Reflection.Extensions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Reflection.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Resources.Reader.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Resources.ResourceManager.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Resources.Writer.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.Extensions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.Handles.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.InteropServices.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.Numerics.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.Serialization.Formatters.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.Serialization.Json.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.Serialization.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.Serialization.Xml.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Security.Claims.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Security.Cryptography.Algorithms.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Security.Cryptography.Csp.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Security.Cryptography.Encoding.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Security.Cryptography.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Security.Cryptography.X509Certificates.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Security.Principal.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Security.SecureString.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Text.Encoding.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Text.Encoding.Extensions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Text.RegularExpressions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Threading.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Threading.Overlapped.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Threading.Tasks.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Threading.Tasks.Parallel.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Threading.Thread.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Threading.ThreadPool.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Threading.Timer.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Xml.ReaderWriter.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Xml.XDocument.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Xml.XmlDocument.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Xml.XmlSerializer.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Xml.XPath.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Xml.XPath.XDocument.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Hosting.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Http.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Hosting.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.Configuration.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.Console.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.Debug.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.EventLog.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.EventSource.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.ObjectPool.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Options.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Primitives.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Net.Http.Headers.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Buffers.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Collections.Immutable.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.ComponentModel.Annotations.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.DiagnosticSource.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Memory.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Numerics.Vectors.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Reflection.Metadata.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Text.Encodings.Web.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Text.Json.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Threading.Tasks.Extensions.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.ValueTuple.dll
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Hosting.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Http.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Hosting.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.Configuration.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.Console.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.Debug.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.EventLog.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Logging.EventSource.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.ObjectPool.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Options.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Extensions.Primitives.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\Microsoft.Net.Http.Headers.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Buffers.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Collections.Immutable.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Diagnostics.DiagnosticSource.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Memory.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Numerics.Vectors.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Reflection.Metadata.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Text.Encodings.Web.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Text.Json.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.Threading.Tasks.Extensions.xml
+D:\gia\LapTrinhAPI\ThucHanhBuoi2\5951071018_DOHOANGGIA_CRUD_Angular\5951071018_DOHOANGGIA_CRUD_Angular\bin\System.ValueTuple.xml
